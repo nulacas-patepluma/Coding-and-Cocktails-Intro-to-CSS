@@ -10,3 +10,9 @@ body {
 .drinks {
   background-color: #cc8ecc;
 }
+nav,footer {
+background-color: #8dbfa1;
+}
+h1,h2,h3 {
+  color: #1d1395;
+}
